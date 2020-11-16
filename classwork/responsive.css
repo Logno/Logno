@@ -1,24 +1,24 @@
 /* Your responsive CSS styles go here */
 @media only screen and (max-width: 500px) {
-    .profile-info {
-      width: 100%;
-      overflow: inherit;
-    }
-    .profile-img {
-      width: 100%;
-    }
-    .experience {
-      width: 95%;
-      margin-bottom: 10%;
-    }
-    .experience img {
-      height: 8%;
-      margin: 10px 0;
-    }
-    .project img {
-      width: 47%;
-    }
-    span {
-      display: block;
-    }
+  .profile-info {
+    width: 100%;
+    overflow: inherit;
   }
+  .profile-img {
+    width: 100%;
+  }
+  .experience {
+    width: 95%;
+    margin-bottom: 10%;
+  }
+  .experience img {
+    height: 8%;
+    margin: 10px 0;
+  }
+  .project img {
+    width: 47%;
+  }
+  span {
+    display: block;
+  }
+}
